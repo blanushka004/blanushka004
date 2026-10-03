@@ -1,74 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,40:6d28d9,100:2563eb&text=Lakshmi%20Anushka%20Bokka&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20Engineering&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
+# Hi 👋, I'm Anushka
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems.;Exploring+AI%2FML+%2B+Backend+Engineering.;Java+%7C+Python+%7C+Spring+Boot+%7C+React;DSA+%2B+LeetCode+%2B+Real-world+Projects;Always+learning.+Always+building." />
+### B.Tech CSBS Student • Software Developer • AI/ML & Backend Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=I+like+building+things+that+actually+work.;Currently+learning+DSA+and+Backend+Development.;Exploring+AI%2FML+through+real-world+projects.;Java+%7C+Python+%7C+Spring+Boot+%7C+React;One+project%2C+one+problem%2C+one+commit+at+a+time." />
 
 <br/>
 
 <a href="https://in.linkedin.com/in/lakshmi-anushka-bokka-84aa46321">
-  <img src="https://img.shields.io/badge/LinkedIn-Lakshmi%20Anushka%20Bokka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Lakshmi%20Anushka%20Bokka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/blanushka0004/">
-  <img src="https://img.shields.io/badge/LeetCode-blanushka0004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-blanushka0004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://github.com/blanushka004">
-  <img src="https://img.shields.io/badge/GitHub-blanushka004-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-blanushka004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ✦ About Me
+## A little about me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I'm **Lakshmi Anushka Bokka**, a B.Tech student in **Computer Science and Business Systems at SRKR Engineering College**, graduating in **2028**.
 
-```yaml
-name: Lakshmi Anushka Bokka
-education: B.Tech - Computer Science & Business Systems
-college: SRKR Engineering College
-graduation: 2028
+I enjoy building software that mixes **backend development, AI/ML and real-world problem solving**.
 
-focus:
-  - Software Engineering
-  - Backend Development
-  - AI / Machine Learning
-  - Full-Stack Development
-  - Data Structures & Algorithms
+Right now, I'm spending most of my time on:
 
-currently:
-  - Building real-world software projects
-  - Learning scalable backend development
-  - Practicing DSA on LeetCode
-  - Exploring AI-powered applications
-```
+- 🌱 learning **Data Structures & Algorithms**
+- ☕ improving my **Spring Boot and backend development**
+- 🤖 building **AI-powered applications**
+- 💻 solving problems on **LeetCode**
+- 🚀 turning project ideas into working applications
 
-</td>
-
-<td width="35%" align="center">
-
-### `> current_mode`
-
-```text
-BUILD
-LEARN
-DEBUG
-IMPROVE
-SHIP
-```
-
-</td>
-</tr>
-</table>
+I like projects where I can understand the problem, design the system, build it, break it, fix it, and finally see it working.
 
 ---
 
-## ⚡ Tech Stack
+## What I'm building
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🫀 Explainable AI Healthcare</h3>
+
+<p>
+A heart-risk assessment system built around machine learning and explainability.
+</p>
+
+<p>
+It combines prediction, SHAP-based explanations, authentication, history tracking and a deployed web application.
+</p>
+
+<p>
+<b>Tech:</b><br/>
+Python • FastAPI • PostgreSQL • Scikit-learn • SHAP
+</p>
+
+<p align="center">
+<a href="https://github.com/blanushka004/Explainable-AI-Healthcare-System">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://explainable-ai-healthcare-system.onrender.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📊 VentureLens</h3>
+
+<p>
+A startup and investment intelligence platform focused on the Indian startup ecosystem.
+</p>
+
+<p>
+It explores funding trends, investors, startup data and future forecasting through interactive analytics.
+</p>
+
+<p>
+<b>Tech:</b><br/>
+Python • Streamlit • PostgreSQL • Plotly • Prophet
+</p>
+
+<p align="center">
+<a href="https://github.com/blanushka004/VentureLens">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<details>
+<summary><b>🌾 More projects I'm working on</b></summary>
+
+<br/>
+
+### Smart Crop Advisory
+
+An AI-powered agricultural advisory platform with:
+
+- multilingual support
+- weather-aware crop guidance
+- AI assistance
+- crop diagnosis
+- farming business insights
+- Firebase-backed workflows
+
+**Tech:** `Next.js` `TypeScript` `Firebase` `Gemini` `Genkit` `Open-Meteo`
+
+---
+
+### FinStack
+
+A personal finance project focused on backend engineering.
+
+I'm working on features like:
+
+- JWT authentication
+- accounts
+- transactions
+- budgets
+- alerts
+- analytics
+- fraud/anomaly assessment
+- financial dashboards
+
+**Tech:** `Java` `Spring Boot` `PostgreSQL` `React` `Maven`
+
+</details>
+
+---
+
+## My coding journey
+
+I don't want to just solve random questions and forget them.
+
+I'm trying to understand **patterns**, build strong fundamentals and improve how I approach problems.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/blanushka0004/">
+<img src="https://leetcard.jacoblin.cool/blanushka0004?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/blanushka0004/">
+<img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+I'm currently strengthening concepts like:
+
+`Arrays` • `Strings` • `Hashing` • `Two Pointers`
+
+`Sliding Window` • `Binary Search` • `Linked Lists`
+
+`Stacks` • `Queues` • `Trees` • `Graphs` • `Dynamic Programming`
+
+<details>
+<summary><b>🧠 How I usually approach a DSA problem</b></summary>
+
+<br/>
+
+```text
+Understand the problem
+        ↓
+Check constraints
+        ↓
+Think of a simple solution
+        ↓
+Recognize the pattern
+        ↓
+Optimize
+        ↓
+Analyse time & space complexity
+        ↓
+Implement
+        ↓
+Revisit later
+```
+
+</details>
+
+---
+
+## Tech I work with
 
 <div align="center">
 
@@ -78,7 +212,7 @@ SHIP
 
 <br/><br/>
 
-### Frontend
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark"/>
 
@@ -102,189 +236,35 @@ SHIP
 
 <br/><br/>
 
+### AI / ML
+
 `Scikit-learn` • `Pandas` • `NumPy` • `SHAP` • `Prophet` • `Gemini` • `Genkit`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🫀 Explainable AI Healthcare</h3>
-
-<p align="center">
-Heart-risk prediction system with explainable ML, secure authentication and prediction history.
-</p>
-
-<p align="center">
-<code>Python</code>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
-<code>SHAP</code>
-<code>Scikit-learn</code>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/blanushka004/Explainable-AI-Healthcare-System">
-<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://explainable-ai-healthcare-system.onrender.com/">
-<img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📊 VentureLens</h3>
-
-<p align="center">
-Startup and investment intelligence platform for analysing Indian startup funding and forecasting trends.
-</p>
-
-<p align="center">
-<code>Python</code>
-<code>Streamlit</code>
-<code>PostgreSQL</code>
-<code>Plotly</code>
-<code>Prophet</code>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/blanushka004/VentureLens">
-<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<details>
-<summary><b>✨ More things I'm building</b></summary>
-
-<br/>
-
-### 🌾 Smart Crop Advisory
-
-AI-powered agriculture platform with multilingual support, weather-aware advisory, diagnosis and business insights.
-
-**Stack:**  
-`Next.js` `TypeScript` `Firebase` `Gemini` `Genkit` `Open-Meteo`
-
----
-
-### 💰 FinStack
-
-Personal finance platform focused on backend architecture and financial workflows.
-
-**Stack:**  
-`Java` `Spring Boot` `PostgreSQL` `React` `JWT` `Maven`
-
-Working on:
-
-- Accounts
-- Transactions
-- Budgets
-- Alerts
-- Analytics
-- Fraud / anomaly assessment
-- Financial dashboards
-
-</details>
-
----
-
-## 🧠 Coding Journey
+## GitHub activity
 
 <div align="center">
 
-### LeetCode
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=blanushka004&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8A8A8A&rank_icon=github"/>
 
-<a href="https://leetcode.com/u/blanushka0004/">
-<img src="https://leetcard.jacoblin.cool/blanushka0004?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/blanushka0004/">
-<img src="https://img.shields.io/badge/Open%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanushka004&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8A8A8A"/>
 
 <br/>
 
-<details>
-<summary><b>🧩 How I approach DSA</b></summary>
-
-<br/>
-
-```text
-Problem
-   ↓
-Understand constraints
-   ↓
-Find the pattern
-   ↓
-Think brute force
-   ↓
-Optimize
-   ↓
-Analyse complexity
-   ↓
-Implement
-   ↓
-Revisit
-```
-
-Currently strengthening:
-
-`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
-
-`Binary Search` • `Linked Lists` • `Stacks` • `Queues`
-
-`Trees` • `Graphs` • `Dynamic Programming`
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=blanushka004&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF&rank_icon=github"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanushka004&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=9CA3AF"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=blanushka004&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=blanushka004&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=8A8A8A&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contributions
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=blanushka004&bg_color=00000000&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=blanushka004&bg_color=00000000&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true"/>
 
 </div>
 
@@ -309,58 +289,73 @@ Currently strengthening:
 
 ---
 
-## 💻 Developer Mode
+## A few more things about me
 
 <details>
+<summary><b>✨ What do I enjoy working on?</b></summary>
 
-<summary><b>Open developer console 👩‍💻</b></summary>
+<br/>
 
-```python
-class Anushka:
+I enjoy projects that involve:
 
-    def __init__(self):
-        self.education = "B.Tech CSBS @ SRKR"
-        self.graduation = 2028
+- backend logic
+- databases
+- APIs
+- AI/ML
+- useful interfaces
+- solving real-world problems
 
-        self.languages = [
-            "Java",
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "C"
-        ]
+I especially like projects where there is something meaningful happening behind the UI rather than just building a static frontend.
 
-        self.interests = [
-            "Software Engineering",
-            "Backend Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Problem Solving"
-        ]
+</details>
 
-    def current_focus(self):
-        return [
-            "DSA",
-            "Spring Boot",
-            "Backend Architecture",
-            "AI-powered Applications"
-        ]
+<br/>
 
-    def workflow(self):
-        return "Learn → Build → Break → Debug → Improve → Ship"
-```
+<details>
+<summary><b>🎯 What am I focusing on next?</b></summary>
+
+<br/>
+
+My current focus is to keep improving in:
+
+- DSA and problem solving
+- Java and Spring Boot
+- backend architecture
+- AI/ML applications
+- writing cleaner and more maintainable code
+- building stronger projects for internships
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>💭 How I like to learn</b></summary>
+
+<br/>
+
+I learn best by building.
+
+I usually understand something much better after I:
+
+1. learn the concept
+2. try it in a project
+3. break something
+4. debug it
+5. understand why it failed
+6. rebuild it better
 
 </details>
 
 ---
 
-## 🌐 Let's Connect
+## Let's connect
 
 <div align="center">
 
-### Got an interesting idea? Let's talk.
+I'm always open to learning, collaborating and talking about interesting projects.
 
-<br/>
+<br/><br/>
 
 <a href="https://in.linkedin.com/in/lakshmi-anushka-bokka-84aa46321">
 <img src="https://img.shields.io/badge/LinkedIn-Lakshmi%20Anushka%20Bokka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -376,12 +371,12 @@ class Anushka:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=blanushka004&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=blanushka004&label=Profile%20Views&color=7c3aed&style=flat-square"/>
 
 <br/><br/>
 
-### `while (alive) { learn(); build(); improve(); }`
+### Thanks for stopping by ✨
+
+`still learning • still building • still improving`
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,40:6d28d9,100:2563eb" width="100%"/>
