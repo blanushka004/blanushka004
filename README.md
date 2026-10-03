@@ -1,218 +1,200 @@
-<h1 align="center">Hi 👋, I'm Bokka Lakshmi Anushka</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSBS Student | Software Developer | AI/ML Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,11,20&text=Bokka%20Lakshmi%20Anushka&fontSize=42&fontAlignY=35&desc=Software%20Development%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20Engineering&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Bokka%20Lakshmi%20Anushka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/blanushka0004/">
-    <img src="https://img.shields.io/badge/LeetCode-blanushka0004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/blanushka004">
-    <img src="https://img.shields.io/badge/GitHub-blanushka004-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/blanushka0004/">
+  <img src="https://img.shields.io/badge/LeetCode-blanushka0004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://github.com/blanushka004">
+  <img src="https://img.shields.io/badge/GitHub-blanushka004-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Exploring+AI%2FML+%2B+Backend+Engineering.;Java+%7C+Python+%7C+React+%7C+Spring+Boot;Learning.+Building.+Shipping." />
 
-- 🎓 B.Tech in **Computer Science and Business Systems**
-- 🏫 SRKR Engineering College
-- 🎯 Class of **2028**
-- 💻 Interested in **Software Development, Backend Engineering, Full-Stack Development and AI/ML**
-- 🌱 Currently working with **Spring Boot, React, FastAPI and Machine Learning**
-- 🧠 Practicing **Data Structures & Algorithms on LeetCode**
-- 🚀 I enjoy building real-world applications across **Healthcare, Agriculture and Finance**
-- 📚 Continuously learning and improving my development and problem-solving skills
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `> whoami`
 
-### 🫀 Explainable AI Healthcare Early Warning System
+```yaml
+name: Bokka Lakshmi Anushka
+education: B.Tech — Computer Science & Business Systems
+college: SRKR Engineering College
+graduation: 2028
 
-Machine-learning based heart-health risk assessment platform focused on both prediction and explainability.
+focus:
+  - Software Engineering
+  - Backend Development
+  - Artificial Intelligence & Machine Learning
+  - Full-Stack Development
 
-**Tech Stack:**  
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Scikit-learn` `SHAP`
+currently:
+  - Building production-oriented projects
+  - Exploring Spring Boot backend architecture
+  - Working with AI-powered applications
+  - Practicing Data Structures & Algorithms
+```
 
-- Machine-learning based health-risk prediction
-- Explainable AI using SHAP
-- Secure authentication and role-based access
-- Assessment history and prediction tracking
-- REST API architecture
-
-🔗 **Repository:**  
-[Explainable AI Healthcare System](https://github.com/blanushka004/Explainable-AI-Healthcare-System)
-
-🌐 **Live Demo:**  
-[Try the Application](https://explainable-ai-healthcare-system.onrender.com/)
-
----
-
-### 🌾 Smart Crop Advisory System
-
-AI-powered agricultural advisory platform designed to provide farmers with intelligent crop insights and recommendations.
-
-**Tech Stack:**  
-`Next.js` `TypeScript` `Firebase` `Gemini` `Genkit` `Open-Meteo`
-
-- AI-powered agricultural assistance
-- Multilingual support
-- Weather-aware crop recommendations
-- Crop diagnosis support
-- Business and profitability insights
-- Firebase authentication and data storage
+I like turning ideas into **working systems** — from explainable healthcare ML and startup intelligence to AI-powered agriculture and finance applications.
 
 ---
 
-### 💰 FinStack
+## `> featured_work`
 
-Advanced personal finance management platform built using Spring Boot.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:**  
-`Java` `Spring Boot` `PostgreSQL` `JWT` `React` `Maven`
+### 🫀 Explainable AI Healthcare
 
-- Secure JWT authentication
-- Account and transaction management
-- Budget tracking
-- Financial analytics
-- Fraud and anomaly assessment
-- RESTful backend architecture
+An explainable ML system for heart-risk assessment with secure authentication, prediction history and interpretable model outputs.
 
----
+**Built with**
+
+`Python` `FastAPI` `PostgreSQL`  
+`Scikit-learn` `SHAP` `SQLAlchemy`
+
+<br/>
+
+<a href="https://github.com/blanushka004/Explainable-AI-Healthcare-System">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://explainable-ai-healthcare-system.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 VentureLens
 
-Indian startup and investment intelligence platform for exploring funding trends and startup ecosystem insights.
+Startup and investment intelligence platform for analyzing the Indian startup ecosystem, funding trends and future patterns.
 
-**Tech Stack:**  
-`Python` `Streamlit` `Pandas` `Plotly` `Prophet` `PostgreSQL`
+**Built with**
 
-- Startup funding analytics
-- Investor intelligence
-- Interactive dashboards
-- Funding trend visualization
-- Forecasting using Prophet
+`Python` `Streamlit` `PostgreSQL`  
+`Pandas` `Plotly` `Prophet`
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/blanushka004/VentureLens">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 💻 Programming Languages
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
-</p>
+### ⚡ Currently Building
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Scikit-learn` • `Pandas` • `NumPy` • `SHAP` • `Prophet` • `Gemini` • `Genkit`
-
-### 🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,postman" />
-</p>
+```text
+🌾 Smart Crop Advisory  →  AI + multilingual agriculture + weather intelligence
+💰 FinStack             →  Spring Boot personal-finance backend ecosystem
+🧠 DSA                  →  sharpening problem solving on LeetCode
+```
 
 ---
 
-## 💻 LeetCode
+## `> tech_stack`
 
-<p align="center">
-  <a href="https://leetcode.com/u/blanushka0004/">
-    <img src="https://leetcard.jacoblin.cool/blanushka0004?theme=dark&font=Karma&ext=heatmap" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/blanushka0004/">
-    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+### Languages
 
----
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" />
 
-## 📊 GitHub Analytics
+### Frontend
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=blanushka004&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanushka004&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgres,mysql,firebase&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,postman&theme=dark" />
+
+<br/>
+
+`Scikit-learn` • `Pandas` • `NumPy` • `SHAP` • `Prophet` • `Gemini` • `SQLAlchemy`
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## `> github_analytics`
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=blanushka004&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blanushka004&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8A8A8A&rank_icon=github" />
 
-## 📈 Contribution Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanushka004&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8A8A8A&langs_count=8" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=blanushka004&theme=tokyo-night&hide_border=true"
-  />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=blanushka004&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&sideLabels=8A8A8A&dates=666666&currStreakNum=8A8A8A&sideNums=8A8A8A" />
+
+</div>
 
 ---
 
-## 🏆 Highlights
+## `> contribution_activity`
 
-- 🤖 Built multiple AI/ML-based real-world applications
-- 🌾 Developed a multilingual AI-powered Smart Crop Advisory platform
-- 🫀 Built an Explainable AI Healthcare Early Warning System
-- ☕ Developing backend systems using Java and Spring Boot
-- 📊 Worked on startup analytics and forecasting through VentureLens
-- 🧠 Active DSA practice on LeetCode
-- 🔍 Interested in Software Engineering, Backend Development and AI/ML
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=blanushka004&bg_color=transparent&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## `> leetcode`
 
-<p align="center">
+<div align="center">
+
+<a href="https://leetcode.com/u/blanushka0004/">
+  <img src="https://leetcard.jacoblin.cool/blanushka0004?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/blanushka0004/">
+  <img src="https://img.shields.io/badge/Keep_solving_%E2%86%92-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+## `> a_little_more_about_me`
+
+```python
+anushka = {
+    "builds": ["backend systems", "AI/ML applications", "full-stack products"],
+    "cares_about": ["clean code", "real-world impact", "continuous learning"],
+    "domains_explored": ["healthcare", "agriculture", "finance", "startups"],
+    "next_goal": "keep building things worth shipping"
+}
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+### Let's build something interesting.
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Bokka_Lakshmi_Anushka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/blanushka0004/">
@@ -223,10 +205,14 @@ Indian startup and investment intelligence platform for exploring funding trends
   <img src="https://img.shields.io/badge/GitHub-blanushka004-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=blanushka004&label=Profile%20Views&color=7c3aed&style=flat-square" />
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p>
+<br/><br/>
+
+### `see you in the next commit. ✦`
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
