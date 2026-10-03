@@ -1,5 +1,3 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,50:8B5CF6,100:2563EB&text=Hi%20%F0%9F%91%8B%20I'm%20Anushka&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=I%20build%20%E2%80%A2%20learn%20%E2%80%A2%20solve%20%E2%80%A2%20repeat&descAlignY=56&descSize=18&animation=fadeIn"/>
@@ -22,9 +20,7 @@
 
 </div>
 
-<br/>
-
-<!-- ===================== ABOUT ===================== -->
+---
 
 ## 👋 So, who am I?
 
@@ -32,26 +28,25 @@ I'm **Lakshmi Anushka Bokka**, but you can call me **Anushka**.
 
 I'm a **B.Tech Computer Science & Business Systems student at SRKR Engineering College**, graduating in **2028**.
 
-I like building things that move beyond tutorials — applications where there's an actual problem to solve, a backend to design, data to work with, bugs to chase, and something useful at the end.
+I like building things that go beyond tutorials — applications where there's an actual problem to solve, a backend to design, data to work with, bugs to chase, and something useful at the end.
 
 Right now you'll usually find me:
 
-🌱 learning **Data Structures & Algorithms**  
-☕ getting deeper into **Java + Spring Boot**  
-🤖 experimenting with **AI/ML and GenAI**  
-💻 solving problems on **LeetCode**  
-🚀 turning ideas into projects that actually run
+- 🌱 learning **Data Structures & Algorithms**
+- ☕ getting deeper into **Java + Spring Boot**
+- 🤖 experimenting with **AI/ML and GenAI**
+- 💻 solving problems on **LeetCode**
+- 🚀 turning ideas into projects that actually run
 
 > **My favorite way to learn:** build it → break it → understand it → build it better.
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
-
 ## 🛠️ What am I up to?
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🧠 Learning
@@ -84,12 +79,11 @@ APIs
 Problem patterns
 
 </td>
+
 </tr>
 </table>
 
 ---
-
-<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Things I've built
 
@@ -113,6 +107,7 @@ An ML-powered heart-risk assessment system where the prediction isn't the end of
 </p>
 
 <p align="center">
+
 <a href="https://github.com/blanushka004/Explainable-AI-Healthcare-System">
 <img src="https://img.shields.io/badge/Explore%20Code-181717?style=flat-square&logo=github"/>
 </a>
@@ -120,6 +115,7 @@ An ML-powered heart-risk assessment system where the prediction isn't the end of
 <a href="https://explainable-ai-healthcare-system.onrender.com/">
 <img src="https://img.shields.io/badge/Try%20It%20Live-8B5CF6?style=flat-square&logo=render&logoColor=white"/>
 </a>
+
 </p>
 
 </td>
@@ -141,9 +137,11 @@ A data-driven look at the Indian startup ecosystem — funding, investors, trend
 </p>
 
 <p align="center">
+
 <a href="https://github.com/blanushka004/VentureLens">
 <img src="https://img.shields.io/badge/Explore%20Code-181717?style=flat-square&logo=github"/>
 </a>
+
 </p>
 
 </td>
@@ -152,14 +150,13 @@ A data-driven look at the Indian startup ecosystem — funding, investors, trend
 </table>
 
 <details>
-
 <summary><b>✨ There's more — see what I'm currently building</b></summary>
 
 <br/>
 
 ### 🌾 Smart Crop Advisory
 
-An AI-powered agricultural platform that brings together:
+An AI-powered agricultural platform bringing together:
 
 - multilingual farmer interaction
 - weather-aware recommendations
@@ -195,11 +192,7 @@ The system is being designed around:
 
 ---
 
-<!-- ===================== LEETCODE ===================== -->
-
 ## 🧠 My LeetCode journey
-
-This is the part I'm actively growing.
 
 I'm working through **DSA systematically instead of chasing a problem count** — learning the pattern behind a problem, understanding the brute-force approach, optimizing it, and then revisiting it later.
 
@@ -234,7 +227,6 @@ I'm working through **DSA systematically instead of chasing a problem count** �
 <br/>
 
 <details>
-
 <summary><b>🧩 How I approach a problem</b></summary>
 
 <br/>
@@ -273,8 +265,6 @@ I'm following structured DSA learning through **Striver / TakeUForward** alongsi
 
 ---
 
-<!-- ===================== STACK ===================== -->
-
 ## ⚡ Things I use to build
 
 <div align="center">
@@ -309,15 +299,13 @@ I'm following structured DSA learning through **Striver / TakeUForward** alongsi
 
 <br/><br/>
 
-**AI / ML**
+### AI / ML
 
 `Scikit-learn` • `Pandas` • `NumPy` • `SHAP` • `Prophet` • `Gemini` • `Genkit`
 
 </div>
 
 ---
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 Meanwhile, on GitHub...
 
@@ -335,8 +323,6 @@ I'm following structured DSA learning through **Striver / TakeUForward** alongsi
 
 ---
 
-<!-- ===================== GRAPH ===================== -->
-
 ## 📈 My contribution trail
 
 <div align="center">
@@ -347,35 +333,36 @@ I'm following structured DSA learning through **Striver / TakeUForward** alongsi
 
 ---
 
-<!-- ===================== SNAKE ===================== -->
-
-## 🐍 Watch the contributions disappear
+## 🐍 Watch my contributions come alive
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="Anushka's contribution snake"
-    src="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="Anushka's GitHub contribution snake"
+src="https://raw.githubusercontent.com/blanushka004/blanushka004/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
 
 </div>
 
 ---
 
-<!-- ===================== PERSONAL ===================== -->
-
 ## 💭 A little more than code
 
 <details>
-
 <summary><b>🎯 What am I working towards?</b></summary>
 
 <br/>
@@ -394,7 +381,6 @@ Right now I want to become stronger at the fundamentals that matter:
 <br/>
 
 <details>
-
 <summary><b>💡 What kind of projects do I enjoy?</b></summary>
 
 <br/>
@@ -421,7 +407,6 @@ A pretty UI backed by something meaningful is much more interesting to me.
 <br/>
 
 <details>
-
 <summary><b>🌱 How do I learn?</b></summary>
 
 <br/>
@@ -435,8 +420,6 @@ Most of the things I remember best are things that once broke and forced me to u
 </details>
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 If you made it this far...
 
