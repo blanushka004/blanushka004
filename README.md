@@ -59,8 +59,8 @@ PROJECTS: fill this in, then delete the comment markers.
 ## 📈 Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/blanushka0004">
-    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/blanushka0004?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <a href="https://leetcode.com/u/anushka0004">
+    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/anushka0004?theme=dark&font=Fira%20Code&ext=heatmap" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@ PROJECTS: fill this in, then delete the comment markers.
 
 <p align="center">
   <a href="https://in.linkedin.com/in/lakshmi-anushka-bokka-84aa46321"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/blanushka0004"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://leetcode.com/u/anushka0004"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://github.com/blanushka004"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
